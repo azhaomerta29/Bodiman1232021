@@ -1,0 +1,44 @@
+/* style.css
+ * MAIN STLYE SHEET
+ */
+
+body {
+	background-color: rgb(240, 240, 240);
+}
+
+img#HeaderImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 550px;
+}
+
+h1 {
+	background-color: #373737;
+	color: #f7f7f7;
+	text-align: center;
+}
+
+
+div {
+    background-color: #373737;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+div.row{
+}
+
+div.column{
+}
+
+img.CastleImage{
+    height: 350px;
+    width: 550px;
+}
+
+button.Explore{
+    background-color: #c1102c;
+    color: #f7f7f7;
+}

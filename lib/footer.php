@@ -1,4 +1,7 @@
 <!-- footer.php -->
-<hr/>
+    <footer>
+    <hr/>
+    <?php echo date(DATE_RFC2822); ?>
+</footer>
 </body>
 </html>

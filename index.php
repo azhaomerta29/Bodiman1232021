@@ -1,6 +1,7 @@
+<!-- index.php -->
 <?php
 $title = "Castles In England";
-include ".\\lib\\header.php";
+include ".\\lib\\header.php"; // page header
 ?>
 
 <!-- MAIN CONTENT -->
@@ -12,6 +13,7 @@ include ".\\lib\\header.php";
     <li>Leeds Castle</li>
 </ul>
 
+<!-- END PAGE CONTENT -->
 <?php
-include ".\\lib\\footer.php";
+include ".\\lib\\footer.php"; // page footer
 ?>

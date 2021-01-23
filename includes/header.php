@@ -1,7 +1,7 @@
 <?php
 /* header.php
  */
-require_once(".//lib//db_connection.php");
+require_once("db_connection.php");
 $db = db_connect();
 ?>
 

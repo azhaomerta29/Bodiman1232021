@@ -1,6 +1,6 @@
 <?php
 $title = "Castles In England";
-require_once(".//lib//header.php");
+require_once(".//includes//header.php");
 ?>
 
 <!-- MAIN CONTENT -->
@@ -37,5 +37,5 @@ db_disconnect($conn);
 
 <?php
 // page footer
-require_once(".\\lib\\footer.php");
+require_once(".\\includes\\footer.php");
 ?>
